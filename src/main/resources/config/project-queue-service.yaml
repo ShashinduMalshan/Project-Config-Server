@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://admin:mongo_secret@10.128.0.2:27017/queueflow_queue_db?authSource=admin

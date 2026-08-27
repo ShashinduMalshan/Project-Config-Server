@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://35.226.105.45:5432/queueflow_appointment_db
+    username: postgres
+    password: queueflow_secret
